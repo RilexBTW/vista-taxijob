@@ -1,5 +1,5 @@
-# qb-taxijob
-Taxi Job For QB-Core
+# vista-taxijob
+Taxi Job For Vista RP, forked from QB-Core Taxi Job
 
 # License
 
